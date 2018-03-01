@@ -1,10 +1,16 @@
 # deeplearning.ai
 
-***由于笔记里存在公式编辑，请自行下载chrome的扩展程序[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)。***
+> _**由于笔记里存在公式编辑，请自行下载chrome的扩展程序[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)，之后便可以预览。**_
 
 ## Coursera
 
 https://www.deeplearning.ai/
+
+> _**在Coursera上只有7天免费的时间，可能学不完5个part。**_
+
+## 网易云课堂
+
+[微专业-深度学习工程师-免费](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 
 ## 参考
 

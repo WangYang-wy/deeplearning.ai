@@ -1,3 +1,3 @@
-# deeplearning.ai
+# deeplearning.ai - part1
 
-## part1
+## Neural Networks and Deep Learning

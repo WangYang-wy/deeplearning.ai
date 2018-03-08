@@ -4,7 +4,7 @@
 
 ## Coursera
 
-https://www.deeplearning.ai/
+[deeplearning.ai](https://www.deeplearning.ai/)
 
 > _**在Coursera上只有7天免费的时间，可能学不完5个part。**_
 

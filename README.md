@@ -12,6 +12,15 @@ https://www.deeplearning.ai/
 
 [微专业-深度学习工程师-免费](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 
+## Courses in this sequence (Specialization)
+
+1. Neural Networks and Deep Learning
+1. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+1. Structuring your Machine Learning project
+1. Convolutional Neural Networks
+1. Natural Language Processing: Building sequence models
+
 ## 参考
 
 1. [302页吴恩达Deeplearning.ai课程笔记，详记基础知识与作业代码](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650737603&idx=1&sn=a8e003446dd0b3ce5a047c69330ac817&chksm=871acfbdb06d46ab8875936c608a15736f52530183102981ef2881292d914d95a168f049b54a&mpshare=1&scene=1&srcid=02083q8To1azkA7xSirpjAOK%23rd) **PS：由于链接里的pdf文件百度云分享链接已经失效，所以上传到repo里。**
+1. [干货|吴恩达Coursera课程教你学习神经网络！](http://mp.weixin.qq.com/s/KGuB3AI9DVAfesvDld0UJA)

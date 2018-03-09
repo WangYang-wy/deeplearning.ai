@@ -4,7 +4,7 @@
 
 ## Coursera
 
-https://www.deeplearning.ai/
+[deeplearning.ai](https://www.deeplearning.ai/)
 
 > _**在Coursera上只有7天免费的时间，可能学不完5个part。**_
 
@@ -23,4 +23,4 @@ https://www.deeplearning.ai/
 ## 参考
 
 1. [302页吴恩达Deeplearning.ai课程笔记，详记基础知识与作业代码](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650737603&idx=1&sn=a8e003446dd0b3ce5a047c69330ac817&chksm=871acfbdb06d46ab8875936c608a15736f52530183102981ef2881292d914d95a168f049b54a&mpshare=1&scene=1&srcid=02083q8To1azkA7xSirpjAOK%23rd) **PS：由于链接里的pdf文件百度云分享链接已经失效，所以上传到repo里。**
-1. [干货|吴恩达Coursera课程教你学习神经网络！](http://mp.weixin.qq.com/s/KGuB3AI9DVAfesvDld0UJA)
+1. [这是一份优美的信息图，吴恩达点赞的deeplearning.ai课程总结](https://mp.weixin.qq.com/s/n43lhGVXZzIPsqxssD9K-w)

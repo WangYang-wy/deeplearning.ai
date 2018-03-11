@@ -1,6 +1,9 @@
 import numpy as np
 
 
+# from PIL import Image
+# form lr_utils imp
+# form lr_utils imp
 def initial_with_zeros(dim):
     """
     initial with zeros.
@@ -156,9 +159,10 @@ def model(X_train, Y_train, X_test, Y_test, num_iterations=2000, learning_rate=0
 if __name__ == '__main__':
     print(1)
     w, b, X, Y = np.array([[1], [2]]), 2, np.array([[1, 2, -1], [3, 4, -3.2]]), np.array([[1, 0, 1]])
-    params, grads, costs = optimize(w, b, X, Y, num_iterations=100, learning_rate=0.009, print_cost=False)
+    params, grads, costs = optimize(w, b, X, Y, num_iterations=10000, learning_rate=0.009, print_cost=False)
 
     print("w = ", str(params["w"]))
     print("b = ", str(params["b"]))
     print("dw = ", str(grads["dw"]))
     print("db = ", str(grads["db"]))
+    print(len(costs))
